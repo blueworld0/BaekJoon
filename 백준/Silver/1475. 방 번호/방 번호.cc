@@ -18,6 +18,7 @@ int main() {
     arr[6] = mid;
     arr[9] = mid;
 
-    cout <<*max_element(arr, arr + 10);
+    cout << *max_element(arr, arr + 10);
     return 0;
+
 }
